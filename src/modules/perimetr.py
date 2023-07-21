@@ -1,2 +1,2 @@
-def perimetr():
-    pass
+def perimetr(arr):
+    return(sum(arr))
