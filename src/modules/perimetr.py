@@ -1,2 +1,2 @@
-def perimetr(a, b, c):
-    return(a+b+c)
+def perimetr(arr):
+    return(sum(arr))
