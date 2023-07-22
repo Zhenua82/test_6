@@ -1,5 +1,6 @@
 import modules.perimetr as perimetr
 import modules.factoprial as factorial
+import modules.test.test_all as te
 
 print(f'Факториал 6 равен {factorial.func(6)}')
 
