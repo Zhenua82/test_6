@@ -1,5 +1,8 @@
 import modules.perimetr as perimetr
+import modules.factoprial as factoprial
 import modules.factoprial as factorial
+
+print(f'Факториал 6 равен {factoprial.func(6)}')
 
 p1 = perimetr.perimetr([1,2,3])
 print(p1)
