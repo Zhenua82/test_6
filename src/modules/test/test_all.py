@@ -1,2 +1,7 @@
 print('test all')
-print ('Хорошо')
+def func():
+    pass
+
+a = 3
+print ('stash')
+print ('stash из гиткракена')

@@ -14,4 +14,4 @@ print(f'Факториал 5 равен {factorial.fact(5)}')
 
 print(f'Факториал 12 равен {factorial.func(12)} = {factorial.fact(12)}')
 
-print('Hello world')
+print('Hello world!!!!!')
