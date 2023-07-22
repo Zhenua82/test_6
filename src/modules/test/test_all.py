@@ -1,4 +1,4 @@
 print('test all')
 print ('Хорошо')
 
-f = 76
+f = 7676
