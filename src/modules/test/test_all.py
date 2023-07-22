@@ -1,2 +1,2 @@
 print('test all')
-print ('Хорошо')
+print ('Хорошо!!!!!!!!!')
